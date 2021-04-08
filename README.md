@@ -16,4 +16,4 @@ https://github.com/anuraghazra/github-readme-stats
 
 [![Youngjuning's github stats](https://github-readme-stats.vercel.app/api?username=youngjuning&show_icons=true)](https://github.com/youngjuning/youngjuning)
 
-<img src="header.svg" width="500" height="250">
+<img src="header.svg" width="500" height="250" style="max-width: 495">
