@@ -16,8 +16,10 @@ https://github.com/anuraghazra/github-readme-stats
 
 [![Youngjuning's github stats](https://github-readme-stats.vercel.app/api?username=youngjuning&show_icons=true)](https://github.com/youngjuning/youngjuning)
 
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning Vue、Java、Flutter
-- 👯 I’m active on [掘金](https://juejin.im/user/325111174662855)
-- 💬 Ask me about React Native
-- 📫 How to reach me: youngjuning@aliyun.com
+<div align="center">
+	<br>
+	<a href="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/readme.md">
+		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+	</a>
+	<br>
+</div>
