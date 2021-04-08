@@ -17,5 +17,3 @@ https://github.com/anuraghazra/github-readme-stats
 [![Youngjuning's github stats](https://github-readme-stats.vercel.app/api?username=youngjuning&show_icons=true&theme=onedark)](https://github.com/youngjuning/youngjuning)
 <br/>
 <img src="header.svg" width="495" height="245" style="max-width: 495px">
-<br/>
-<img src="luozhu.jpeg" width="300" height="300">
