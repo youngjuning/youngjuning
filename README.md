@@ -17,5 +17,5 @@ https://github.com/anuraghazra/github-readme-stats
 ![os](https://img.shields.io/badge/os-%20macOS-light)
 
 <img src="header.svg" width="495" height="245">
-<br/>
+
 [![Youngjuning's github stats](https://github-readme-stats.vercel.app/api?username=youngjuning&show_icons=true&theme=onedark)](https://github.com/youngjuning/youngjuning)
