@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 https://github.com/anuraghazra/github-readme-stats
 -->
 
-[![Youngjuning's github stats](https://github-readme-stats.vercel.app/api?username=youngjuning&show_icons=true&theme=onedark)](https://github.com/youngjuning/youngjuning)
+![os](https://img.shields.io/badge/os-%20macOS-light)
+
+<img src="header.svg" width="495" height="245">
 <br/>
-<img src="header.svg" width="495" height="245" style="max-width: 495px">
+[![Youngjuning's github stats](https://github-readme-stats.vercel.app/api?username=youngjuning&show_icons=true&theme=onedark)](https://github.com/youngjuning/youngjuning)
