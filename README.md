@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 https://github.com/anuraghazra/github-readme-stats
 -->
 
-![os](https://img.shields.io/badge/os-%20macOS-light)
+![os](https://img.shields.io/badge/os-%20macOS-light) [![](https://img.shields.io/badge/ide-visual_studio_code-blue)](https://code.visualstudio.com/)
 
 <img src="header.svg" width="495" height="245">
 
