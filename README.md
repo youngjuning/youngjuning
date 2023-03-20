@@ -4,7 +4,7 @@
 - [洛竹的日记](https://luozhu2021.blogspot.com/)
 - [洛竹的掘金](https://juejin.cn/user/325111174662855)
 
-# 洛竹翻译计划
+# 翻译计划
 
 - [洛竹翻译计划](https://youngjuning.js.org/categories/%E6%B4%9B%E7%AB%B9%E7%BF%BB%E8%AF%91%E8%AE%A1%E5%88%92/)
 - [vscode api 中文文档](https://vscode-api-cn.js.org)
