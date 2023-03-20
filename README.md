@@ -1,7 +1,8 @@
-# 网站
+# 洛竹
 
 - [洛竹的博客](https://youngjuning.js.org)
-- [掘金主页](https://juejin.cn/user/325111174662855)
+- [洛竹的日记](https://luozhu2021.blogspot.com/)
+- [洛竹的掘金](https://juejin.cn/user/325111174662855)
 
 # 洛竹翻译计划
 
