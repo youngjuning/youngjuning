@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.1.0](https://github.com/youngjuning/youngjuning/compare/@youngjuning/create-vscode-webview@2.0.1...@youngjuning/create-vscode-webview@2.1.0) (2025-03-02)
+
+
+### Features
+
+* remove deprecated lib ([c19e6b2](https://github.com/youngjuning/youngjuning/commit/c19e6b2fe41d0afe747dc9ed39b2badd76349392))
+
+
+
+
+
 ## 2.0.1 (2025-02-27)
 
 

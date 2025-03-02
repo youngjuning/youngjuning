@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/youngjuning/youngjuning/compare/@youngjuning/eslint-config@0.2.0...@youngjuning/eslint-config@0.3.0) (2025-03-02)
+
+
+### Features
+
+* use ts config ([50bbd72](https://github.com/youngjuning/youngjuning/commit/50bbd72c8dc31b4804c0658b572376d1680898e0))
+
+
+
+
+
 # 0.2.0 (2025-03-02)
 
 
