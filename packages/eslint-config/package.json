@@ -1,6 +1,6 @@
 {
   "name": "@youngjuning/eslint-config",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "description": "youngjuning's eslint config",
   "keywords": [
     "youngjuning",
@@ -42,8 +42,6 @@
     "jiti": "^2.4.2",
     "prettier": "^3.5.2",
     "typescript-eslint": "^8.25.0"
-  },
-  "peerDependencies": {
   },
   "gitHead": "f692b039f8f9a75d824c67b47b82855b7e03ac58"
 }
