@@ -1,0 +1,46 @@
+{
+  "name": "@youngjuning/eslint-config",
+  "version": "0.1.0",
+  "description": "youngjuning's eslint config",
+  "keywords": [
+    "youngjuning",
+    "eslint-config",
+    "javascript"
+  ],
+  "author": {
+    "name": "紫升",
+    "email": "luozhu2021@gmail.com",
+    "url": "https://youngjuning.js.org"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "patch.js"
+  ],
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://github.com/youngjuning/youngjuning/tree/main/packages/eslint-config#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/youngjuning/youngjuning.git",
+    "directory": "packages/eslint-config"
+  },
+  "bugs": {
+    "url": "https://github.com/youngjuning/youngjuning/issues"
+  },
+  "dependencies": {
+    "@eslint/js": "^9.21.0",
+    "eslint-config-prettier": "^10.0.2",
+    "eslint-plugin-prettier": "^5.2.3",
+    "globals": "^16.0.0",
+    "jiti": "^2.4.2",
+    "typescript-eslint": "^8.25.0"
+  },
+  "peerDependencies": {
+    "eslint": "^9.21.0",
+    "prettier": "^3.5.2"
+  },
+  "gitHead": "f692b039f8f9a75d824c67b47b82855b7e03ac58"
+}
