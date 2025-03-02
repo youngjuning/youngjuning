@@ -11,7 +11,7 @@
     "commitizen": "^4.2.4",
     "commitlint-config-cz": "^0.13.2",
     "cz-customizable": "^6.3.0",
-    "eslint": "^7.32.0",
+    "eslint": "^9.21.0",
     "lerna": "^4.0.0",
     "lint-staged": "^11.1.1",
     "prettier": "^2.3.2",
