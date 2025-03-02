@@ -3,19 +3,15 @@ import tseslint from 'typescript-eslint';
 import eslintPluginPrettierRecommended from 'eslint-plugin-prettier/recommended';
 import pluginJest from 'eslint-plugin-jest';
 
-import type { Linter } from 'eslint';
-
+/** @type {import('eslint').Linter.Config[]} */
 export default [
   eslint.configs.recommended,
-  // @ts-expect-error no idea why
   ...tseslint.configs.recommended,
   {
     files: ['**/*.spec.ts', '**/*.test.ts', '**/*.spec.js', '**/*.test.js'],
-    // @ts-expect-error no idea why
     plugins: {
       jest: pluginJest,
     },
-    // @ts-expect-error no idea why
     languageOptions: {
       globals: pluginJest.environments.globals.globals,
     },
@@ -29,4 +25,4 @@ export default [
   },
   // @ts-expect-error no idea why
   eslintPluginPrettierRecommended,
-] satisfies Linter.Config[];
+];

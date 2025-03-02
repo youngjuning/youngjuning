@@ -1,6 +1,6 @@
 import globals from 'globals';
 import tseslint from 'typescript-eslint';
-import youngjuning from './packages/eslint-config';
+import youngjuning from '@youngjuning/eslint-config';
 
 export default tseslint.config(
   {

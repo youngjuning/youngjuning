@@ -12,16 +12,12 @@
     "email": "luozhu2021@gmail.com",
     "url": "https://youngjuning.js.org"
   },
-  "main": "lib/index.js",
+  "main": "index.js",
   "files": [
-    "lib/"
+    "index.js",
+    "index.d.ts"
   ],
-  "types": "lib/index.d.ts",
-  "scripts": {
-    "prebuild": "rimraf lib",
-    "build": "tsc",
-    "dev": "yarn build -w"
-  },
+  "types": "index.d.ts",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
