@@ -23,6 +23,5 @@ export default [
       'jest/valid-expect': 'error',
     },
   },
-  // @ts-expect-error no idea why
   eslintPluginPrettierRecommended,
 ];
