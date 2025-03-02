@@ -12,11 +12,11 @@
     "email": "luozhu2021@gmail.com",
     "url": "https://youngjuning.js.org"
   },
-  "main": "index.js",
+  "main": "lib/index.js",
   "files": [
-    "index.js"
+    "lib/index.js"
   ],
-  "types": "index.d.ts",
+  "types": "lib/index.d.ts",
   "scripts": {
     "prebuild": "rimraf lib",
     "build": "tsc",
