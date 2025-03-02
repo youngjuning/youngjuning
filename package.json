@@ -2,31 +2,28 @@
   "name": "root",
   "private": true,
   "devDependencies": {
-    "@commitlint/cli": "^13.1.0",
-    "@types/node": "^22.13.4",
-    "@types/react": "^17.0.15",
-    "@types/react-native": "^0.73.0",
-    "commitizen": "^4.2.4",
-    "commitlint-config-cz": "^0.13.2",
-    "cz-customizable": "^6.3.0",
-    "eslint": "^7.32.0",
+    "@commitlint/cli": "^19.7.1",
+    "@types/node": "^22.13.8",
+    "@types/react": "^19.0.10",
+    "commitizen": "^4.3.1",
+    "commitlint-config-cz": "^0.13.3",
+    "cz-customizable": "^7.4.0",
+    "eslint": "^9.21.0",
     "husky": "^9.1.7",
-    "lerna": "^8.1.9",
-    "lint-staged": "^11.1.1",
-    "prettier": "^2.3.2",
-    "react": "^17.0.2",
-    "react-native": "^0.77.1",
-    "rimraf": "^3.0.2",
-    "typescript": "^5.7.3"
+    "lerna": "^8.2.0",
+    "lint-staged": "^15.4.3",
+    "prettier": "^3.5.2",
+    "react": "^19.0.0",
+    "rimraf": "^6.0.1",
+    "typescript": "^5.8.2"
   },
   "scripts": {
     "commit": "cz",
+    "prepare": "husky",
     "prebuild": "rimraf packages/*/lib",
     "build": "lerna run build",
     "prepublish": "yarn build",
-    "publish": "lerna publish",
-    "lint": "eslint . --ext .js,.jsx,.ts,.tsx --fix",
-    "prepare": "husky"
+    "publish": "lerna publish"
   },
   "config": {
     "commitizen": {

@@ -52,8 +52,7 @@
   },
   "devDependencies": {
     "@types/fs-extra": "^9.0.12",
-    "@types/inquirer": "^7.3.3",
-    "@types/ora": "^3.2.0"
+    "@types/inquirer": "^7.3.3"
   },
   "gitHead": "f692b039f8f9a75d824c67b47b82855b7e03ac58"
 }
