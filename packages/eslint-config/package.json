@@ -47,5 +47,8 @@
     "eslint": "^9.21.0",
     "prettier": "^3.5.2"
   },
-  "gitHead": "f692b039f8f9a75d824c67b47b82855b7e03ac58"
+  "gitHead": "f692b039f8f9a75d824c67b47b82855b7e03ac58",
+  "devDependencies": {
+    "eslint-plugin-jest": "^28.11.0"
+  }
 }
