@@ -37,6 +37,7 @@
   },
   "dependencies": {
     "@eslint/js": "^9.21.0",
+    "eslint-plugin-jest": "^28.11.0",
     "eslint-config-prettier": "^10.0.2",
     "eslint-plugin-prettier": "^5.2.3",
     "globals": "^16.0.0",
@@ -47,8 +48,5 @@
     "eslint": "^9.21.0",
     "prettier": "^3.5.2"
   },
-  "gitHead": "f692b039f8f9a75d824c67b47b82855b7e03ac58",
-  "devDependencies": {
-    "eslint-plugin-jest": "^28.11.0"
-  }
+  "gitHead": "f692b039f8f9a75d824c67b47b82855b7e03ac58"
 }
