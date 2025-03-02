@@ -15,15 +15,10 @@
 
 ## Coding Style
 
-- [@youngjuning/eslint-config-base](https://github.com/youngjuning/youngjuning/tree/main/packages/eslint-config-base#readme) - for pure javascript project.
-- [@youngjuning/eslint-config-typescript](https://github.com/youngjuning/youngjuning/tree/main/packages/eslint-config-typescript#readme) - for javascript、typescript project.
-- [@youngjuning/eslint-config-react](https://github.com/youngjuning/youngjuning/tree/main/packages/eslint-config-react#readme) - for react project.
-- [@youngjuning/eslint-config-react-typescript](https://github.com/youngjuning/youngjuning/tree/main/packages/eslint-config-react-typescript#readme) - for react、react with typescript project.
-- [@youngjuning/eslint-config-react-native](https://github.com/youngjuning/youngjuning/tree/main/packages/eslint-config-react-native#readme) - for react-native project.
+- [@youngjuning/eslint-config](https://github.com/youngjuning/youngjuning/tree/main/packages/eslint-config-base#readme) - for pure javascript project.
 - [@youngjuning/prettier-config](https://github.com/youngjuning/youngjuning/tree/main/packages/prettier-config) - youngjuning's prettier config.
-- [@youngjuning/eslint-rules](https://github.com/youngjuning/youngjuning/tree/main/packages/eslint-rules) - youngjuning's eslint rules.
-- [@youngjuning/create-commitlint](https://github.com/youngjuning/youngjuning/tree/main/packages/create-commitlint) - Init commintlint in exist project.
-- [@youngjuning/create-coding-style](https://github.com/youngjuning/youngjuning/tree/main/packages/create-coding-style) - Init coding style in exist project.
+- [@youngjuning/eslint-config-react-native](https://github.com/youngjuning/youngjuning/tree/main/packages/eslint-config-react-native#readme) - for react-native project.
+- [@youngjuning/create-commitlint](https://github.com/youngjuning/youngjuning/tree/main/packages/create-commitlint) - Init commitlint in exist project.
 
 ## vscode
 
