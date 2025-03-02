@@ -5,10 +5,7 @@ import youngjuning from './packages/eslint-config';
 export default tseslint.config(
   {
     languageOptions: {
-      globals: {
-        ...globals.browser,
-        ...globals.node,
-      },
+      globals: globals.node,
     },
   },
   youngjuning

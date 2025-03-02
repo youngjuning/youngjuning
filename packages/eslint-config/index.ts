@@ -2,8 +2,12 @@ import eslint from '@eslint/js';
 import tseslint from 'typescript-eslint';
 import eslintPluginPrettierRecommended from 'eslint-plugin-prettier/recommended';
 
-export default tseslint.config(
+import type { Linter } from 'eslint';
+
+export default [
   eslint.configs.recommended,
-  tseslint.configs.recommended,
-  eslintPluginPrettierRecommended
-);
+  // @ts-expect-error no idea why
+  ...tseslint.configs.recommended,
+  // @ts-expect-error no idea why
+  eslintPluginPrettierRecommended,
+] satisfies Linter.Config[];
