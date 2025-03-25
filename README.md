@@ -18,6 +18,7 @@
 - [@youngjuning/eslint-config](https://github.com/youngjuning/youngjuning/tree/main/packages/eslint-config-base#readme) - for pure javascript project.
 - [@youngjuning/prettier-config](https://github.com/youngjuning/youngjuning/tree/main/packages/prettier-config) - youngjuning's prettier config.
 - [@youngjuning/eslint-config-react-native](https://github.com/youngjuning/youngjuning/tree/main/packages/eslint-config-react-native#readme) - for react-native project.
+- [@youngjuning/eslint-plugin-x-react-hook](https://github.com/youngjuning/youngjuning/tree/main/packages/eslint-plugin-x-react-hook)
 - [@youngjuning/create-commitlint](https://github.com/youngjuning/youngjuning/tree/main/packages/create-commitlint) - Init commitlint in exist project.
 
 ## vscode
