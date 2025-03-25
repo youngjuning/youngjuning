@@ -9,5 +9,10 @@
   ],
   "author": "全栈紫升",
   "license": "MIT",
-  "description": "eslint 扩展 react hooks 规则"
+  "description": "eslint 扩展 react hooks 规则",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngjuning/youngjuning.git",
+    "directory": "packages/eslint-plugin-x-react-hooks"
+  }
 }

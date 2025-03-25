@@ -10,30 +10,17 @@ npm install --save-dev eslint-plugin-x-react-hooks
 
 ```json
 {
-  "plugins": ["x-react-hooks"],
-  "rules": {
-    "x-react-hooks/no-json-stringify-in-deps": "error"
-  }
+  "extends": ["plugin:x-react-hooks/recommended"]
 }
 ```
 
-## rules
+Customize rules：
 
-### no-json-stringify-in-deps
-
-Error：
-
-```jsx
-const users = [{ name: '全栈紫升' }];
-useEffect(() => {}, [JSON.stringify(users)]);
-```
-
-Correct：
-
-```jsx
-import { useDeepCompareEffect } from "ahooks";
-
-const users = [{ name: '全栈紫升' }];
-useEffect(() => {}, [users.length]);
-useDeepCompareEffect(() => {}, [users]);
+```json
+{
+  "plugins": ["x-react-hooks"],
+  "rules": {
+    "x-react-hooks/no-json-stringify-in-deps": "warn"
+  }
+}
 ```
