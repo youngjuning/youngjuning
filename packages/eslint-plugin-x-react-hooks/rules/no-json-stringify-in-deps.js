@@ -5,7 +5,7 @@ module.exports = {
       description: 'Disallow JSON.stringify in hook dependencies',
       category: 'Best Practices',
       recommended: true,
-      url: 'https://github.com/facebook/react/issues/14920',
+      url: 'https://github.com/youngjuning/youngjuning/tree/main/packages/eslint-plugin-x-react-hooks#no-json-stringify-in-deps',
     },
     messages: {
       noJSONStringifyInDeps: 'JSON.stringify should not be in hook dependencies',
