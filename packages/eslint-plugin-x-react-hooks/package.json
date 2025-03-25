@@ -1,0 +1,9 @@
+{
+  "name": "eslint-plugin-x-react-hooks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": ["eslint", "react", "hooks"],
+  "author": "全栈紫升",
+  "license": "MIT",
+  "description": "eslint 扩展 react hooks 规则"
+}
