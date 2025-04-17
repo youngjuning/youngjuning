@@ -6,10 +6,15 @@
     "youngjuning"
   ],
   "files": [
-    "executeScript.js",
-    "index.js"
+    "lib",
+    "assets"
   ],
-  "main": "index.js",
+  "main": "lib/index.js",
+  "scripts": {
+    "prebuild": "rimraf lib",
+    "build": "tsc",
+    "dev": "yarn build -w"
+  },
   "publishConfig": {
     "access": "public"
   },
@@ -27,5 +32,11 @@
   "bugs": {
     "url": "https://github.com/youngjuning/youngjuning/issues"
   },
-  "homepage": "https://github.com/youngjuning/youngjuning/tree/main/packages/build-dom-tree#readme"
+  "homepage": "https://github.com/youngjuning/youngjuning/tree/main/packages/build-dom-tree#readme",
+  "dependencies": {
+    "fs-extra": "^10.0.0"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^24.6.1"
+  }
 }

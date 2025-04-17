@@ -3,6 +3,7 @@
 ```ts
 const puppeteer = require('puppeteer');
 const fs = require('fs');
+const path = require('@youngjuning/build-dom-tree');
 
 async function main() {
   const browser = await puppeteer.launch({
