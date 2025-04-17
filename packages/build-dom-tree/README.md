@@ -2,20 +2,18 @@
 
 ```ts
 const puppeteer = require('puppeteer');
-const fs = require('fs');
-const path = require('@youngjuning/build-dom-tree');
+const { executeBuildDomTreeScript } = require('@youngjuning/build-dom-tree');
 
 async function main() {
   const browser = await puppeteer.launch({
-    headless: false
+    headless: false,
   });
   const page = await browser.newPage();
-  await page.goto("https://www.example.com", {
-    waitUntil: 'networkidle2'
+  await page.goto('https://www.example.com', {
+    waitUntil: 'networkidle2',
   });
   // 读取 npm 包文件内容
-  const buildDomTreePath = path.resolve(require.resolve('@youngjuning/build-dom-tree'));
-  const buildDomTreeScript = fs.readFileSync(buildDomTreePath, 'utf8');
+  await executeBuildDomTreeScript(page);
   // 注入脚本
   await page.evaluateOnNewDocument(buildDomTreeScript);
   await page.evaluate(() => {
