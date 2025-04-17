@@ -8,7 +8,7 @@
   "files": [
     "index.js"
   ],
-  "main": "lib/index.js",
+  "main": "index.js",
   "publishConfig": {
     "access": "public"
   },
