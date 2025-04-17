@@ -1,6 +1,6 @@
 {
   "name": "@youngjuning/build-dom-tree",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "buildDomTree is modified based on browser-use's code",
   "keywords": [
     "youngjuning"
