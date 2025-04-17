@@ -6,6 +6,7 @@
     "youngjuning"
   ],
   "files": [
+    "executeScript.js",
     "index.js"
   ],
   "main": "index.js",
