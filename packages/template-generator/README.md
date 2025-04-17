@@ -21,14 +21,14 @@ const generator = require('@youngjuning/template-generator');
 // 编译当前目录下所有符合 `**/*.tpl.*` 模式的文件
 generator(
   {
-    name: '紫升',
+    name: 'Aaron Young',
   },
   process.cwd()
 );
 // 编译当前目录下所有文件
 generator(
   {
-    name: '紫升',
+    name: 'Aaron Young',
   },
   process.cwd()
   {
@@ -38,7 +38,7 @@ generator(
 // 编译当前目录下所有文件（但是排除 .js 结尾的文件）
 generator(
   {
-    name: '紫升',
+    name: 'Aaron Young',
   },
   process.cwd()
   {

@@ -19,7 +19,7 @@ $ create-vscode-extension
 
 ## 开发前必看
 
-1. 务必替换 Icon（默认是紫升早茶馆公众号二维码）
+1. 务必替换 Icon（默认是Aaron Young早茶馆公众号二维码）
 2. 务必修改 README.md（默认的执行 `vsce package` 会报错）
 3. 模板配置了 commit 提交规范，提交信息需要符合规范
 4. `package.nls.json` 和 `package.nls.zh-cn.json` 是国际化配置文件

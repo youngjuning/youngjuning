@@ -34,7 +34,7 @@ const channel = new Channel();
 
 ```ts
 channel.call('sayHi', {
-  name: '紫升',
+  name: 'Aaron Young',
 }).catch(error => {
   console.log("如果我有错，请让法律制裁我！")
 });

@@ -7,7 +7,7 @@
     "react",
     "hooks"
   ],
-  "author": "全栈紫升",
+  "author": "Aaron Young",
   "license": "MIT",
   "description": "eslint 扩展 react hooks 规则",
   "repository": {

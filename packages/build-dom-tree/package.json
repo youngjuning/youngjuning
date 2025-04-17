@@ -1,27 +1,21 @@
 {
-  "name": "@youngjuning/node",
-  "version": "2.0.0",
-  "description": "youngjuning's nodejs utils",
+  "name": "@youngjuning/build-dom-tree",
+  "version": "1.0.0",
+  "description": "buildDomTree is modified based on browser-use's code",
   "keywords": [
     "youngjuning"
   ],
   "files": [
-    "lib"
+    "index.js"
   ],
   "main": "lib/index.js",
-  "types": "lib/index.d.ts",
-  "scripts": {
-    "prebuild": "rimraf lib",
-    "build": "tsc",
-    "dev": "yarn build -w"
-  },
   "publishConfig": {
     "access": "public"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/youngjuning/youngjuning.git",
-    "directory": "packages/node"
+    "directory": "packages/build-dom-tree"
   },
   "author": {
     "name": "Aaron Young",
@@ -32,6 +26,5 @@
   "bugs": {
     "url": "https://github.com/youngjuning/youngjuning/issues"
   },
-  "homepage": "https://github.com/youngjuning/youngjuning/tree/main/packages/node#readme",
-  "gitHead": "f692b039f8f9a75d824c67b47b82855b7e03ac58"
+  "homepage": "https://github.com/youngjuning/youngjuning/tree/main/packages/build-dom-tree#readme"
 }
