@@ -10,6 +10,10 @@
  * MIT License
  * Copyright (c) 2024 Gregor Zunic
  * https://github.com/browser-use/browser-use/blob/main/LICENSE
+ *
+ * Apache License
+ * Version 2.0, January 2004
+ * https://github.com/bytedance/UI-TARS-desktop/blob/main/LICENSE
  */
 window.buildDomTree = (
   args = {

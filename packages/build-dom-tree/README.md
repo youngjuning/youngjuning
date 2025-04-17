@@ -32,3 +32,22 @@ async function main() {
 
 main();
 ```
+
+## LICENSE
+
+This repo's code is modified based on
+https://github.com/nanobrowser/nanobrowser/blob/master/chrome-extension/public/buildDomTree.js
+https://github.com/browser-use/browser-use/blob/main/browser_use/dom/buildDomTree.js
+https://github.com/bytedance/UI-TARS-desktop/blob/main/packages/agent-infra/browser-use/assets/buildDomTree.js
+
+Apache-2.0 License
+Copyright (c) 2024 alexchenzl
+https://github.com/nanobrowser/nanobrowser/blob/master/LICENSE
+
+MIT License
+Copyright (c) 2024 Gregor Zunic
+https://github.com/browser-use/browser-use/blob/main/LICENSE
+
+Apache License
+Version 2.0, January 2004
+https://github.com/bytedance/UI-TARS-desktop/blob/main/LICENSE
