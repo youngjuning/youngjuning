@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/youngjuning/youngjuning/compare/@youngjuning/build-dom-tree@1.1.1...@youngjuning/build-dom-tree@1.2.0) (2025-05-20)
+
+
+### Features
+
+* add coordinate and viewport interfaces ([30ab458](https://github.com/youngjuning/youngjuning/commit/30ab458b92b27c9e1dbbcdec04369adbd6875d14))
+
+
+
+
+
 ## [1.1.1](https://github.com/youngjuning/youngjuning/compare/@youngjuning/build-dom-tree@1.1.0...@youngjuning/build-dom-tree@1.1.1) (2025-04-17)
 
 **Note:** Version bump only for package @youngjuning/build-dom-tree
