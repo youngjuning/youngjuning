@@ -5,6 +5,7 @@
     "@commitlint/cli": "^19.7.1",
     "@types/node": "^22.13.8",
     "@types/react": "^19.0.10",
+    "@youngjuning/eslint-config": "workspace:^",
     "commitizen": "^4.3.1",
     "commitlint-config-cz": "^0.13.3",
     "cz-customizable": "^7.4.0",
