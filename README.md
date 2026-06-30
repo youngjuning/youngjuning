@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/website-www.zisheng.pro-blue?style=flat-square)](https://www.zisheng.pro)
 [![Blog](https://img.shields.io/badge/blog-blog.zisheng.pro-orange?style=flat-square)](https://blog.zisheng.pro)
-[![Email](https://img.shields.io/badge/email-youngjuning%40163.com-red?style=flat-square)](mailto:youngjuning@163.com)
+[![Email](https://img.shields.io/badge/email-zisheng-ai%40163.com-red?style=flat-square)](mailto:youngjuning@163.com)
 
 </div>
 
@@ -53,9 +53,9 @@ I'm a full-stack developer focused on **AI Agent infrastructure** and **browser 
 
 <div align="center">
 
-![Aaron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youngjuning&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Aaron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zisheng-ai&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngjuning&layout=compact&hide_border=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zisheng-ai&layout=compact&hide_border=true&theme=default)
 
 </div>
 
